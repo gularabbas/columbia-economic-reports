@@ -8,11 +8,6 @@ Each report is a single self-contained page with interactive charts
 (hover for values), the city logo, a glossary, and a **Save as PDF** button.
 
 ## View the reports
-
-- [May 2026](https://gularabbas.github.io/columbia-economic-reports/May26-Economic-Report.html)
-- [June 2026](https://gularabbas.github.io/columbia-economic-reports/Jun26-Economic-Report-with-photo.html)
-- [July 2026](https://gularabbas.github.io/columbia-economic-reports/Jul26-Economic-Report-with-photo.html)
-- [August 2026](https://gularabbas.github.io/columbia-economic-reports/Aug26-Economic-Report-with-photo.html)
 - [September 2026](https://gularabbas.github.io/columbia-economic-reports/Sep26-Economic-Report-with-photo.html)
 
 ## Notes
